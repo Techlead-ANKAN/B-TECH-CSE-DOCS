@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1696692586 source:c:\users\mrank\onedrive\documents\[ b.tech in cse ]\3rd semester\lab subjects\software tools [ csen2154 ]\2_vehicle\mileage.c
+
+1696692629 source:c:\users\mrank\onedrive\documents\[ b.tech in cse ]\3rd semester\lab subjects\software tools [ csen2154 ]\2_vehicle\main.c
+	<stdio.h>
+	<stdlib.h>
+	"myHeader.h"
+
+1696692507 c:\users\mrank\onedrive\documents\[ b.tech in cse ]\3rd semester\lab subjects\software tools [ csen2154 ]\2_vehicle\myheader.h
+
